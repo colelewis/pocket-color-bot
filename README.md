@@ -25,6 +25,3 @@ Use the `--save` flag to save the image and text contents of the tweet in the pr
 
 ## Notes
 You will need to provide your API tokens into `twitter_secrets.py` as specified in the file.
-
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/colelewis/pocket-color-bot)

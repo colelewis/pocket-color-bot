@@ -9,12 +9,13 @@ Enter the virtual environment with `source venv/bin/activate`.
 
 Leave the virtual environment with `deactivate`.
 
-
+You will need [pip](https://pip.pypa.io/en/stable/) installed.
 
 To initialize for use:
 * `git clone https://github.com/colelewis/pocket-color-bot.git && cd pocket-color-bot`
 * `source venv/bin/activate`
 * You will need to provide your API tokens into `twitter_secrets.py` as specified in the file.
+* `pip install -r requirements.txt` or `python3 -m pip install -r requirements.txt`
 * `python3 main.py`
 
 Use the `--save` flag to save the image and text contents of the tweet in the project's `/data` directory.

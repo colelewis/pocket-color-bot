@@ -3,7 +3,7 @@
 ## Description
 Twitter bot to generate random webcolors alongside information about the color.
 
-Built using Python3, [webcolors](https://github.com/ubernostrum/webcolors), [Pillow](https://github.com/python-pillow/Pillow/blob/0f44136e720cd3b2db72bdf29614897b7aa3e868/docs/index.rst), (and the [Twitter API](https://developer.twitter.com/en/docs/twitter-api).
+Built using Python3, [webcolors](https://github.com/ubernostrum/webcolors), [Pillow](https://github.com/python-pillow/Pillow/blob/0f44136e720cd3b2db72bdf29614897b7aa3e868/docs/index.rst), and the [Twitter API](https://developer.twitter.com/en/docs/twitter-api).
 
 Enter the virtual environment with `source venv/bin/activate`.
 

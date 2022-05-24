@@ -22,7 +22,7 @@ Use the `--save` flag to save the image and text contents of the tweet in the pr
 
 ## Demonstration
 
-[@pocketcolorbot](https://twitter.com/pocketcolorbot)
+[@colelewisbot](https://twitter.com/colelewisbot)
 
 ## Notes
 You will need to provide your API tokens into `twitter_secrets.py` as specified in the file.

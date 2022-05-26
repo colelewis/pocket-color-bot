@@ -3,7 +3,7 @@ from random import randint
 from datetime import datetime
 from twitter_secrets import ACCESS_TOKEN, ACCESS_TOKEN_SECRET, API_KEY, API_KEY_SECRET, twitter_secrets as ts
 from PIL import Image
-import tweepy, webcolors, os, sys
+import tweepy, webcolors, os
 
 consumer_key = ts.API_KEY
 consumer_secret = ts.API_KEY_SECRET
